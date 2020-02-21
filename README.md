@@ -8,3 +8,8 @@ From zero to  one
 `saving_loading_models`: Pytorch保存和加载模型指南。
 
 `torch_gather`，`torch_scatter_`: 这两个兄弟函数的用法，常用于One-hot的编码和解码。
+
+`Fashion-Mnist`: 下载和展示这个数据集。
+
+
+
