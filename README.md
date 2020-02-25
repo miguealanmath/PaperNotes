@@ -11,5 +11,9 @@ From zero to  one
 
 `Fashion-Mnist`: 下载和展示这个数据集。
 
+`text_classification_RNN`: RNN文本分类
+
+`textCNN`: textCNN文本分类
+
 
 
